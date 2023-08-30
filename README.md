@@ -2,6 +2,9 @@
 
 Welcome to the Food Delivery Website repository! This is a simple static website built using HTML and CSS to showcase the concept of a food delivery platform. The website is designed to be responsive, adapting to various screen sizes and devices.
 
+## Demo 
+https://staticfooddelivery.netlify.app/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
